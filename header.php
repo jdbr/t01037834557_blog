@@ -2,7 +2,7 @@
 
 <head>
 <meta charset="utf-8">
-<title>  장희성 블로그입니다.  </title>
+<title>  김재영 블로그입니다.  </title>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 
