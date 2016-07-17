@@ -1,0 +1,34 @@
+.top-nav {
+	text-align:center;
+}
+
+.top-nav ul {
+display:inline-block;
+}
+
+.top-nav ul li {
+	display:inline-block;
+}
+
+.top-nav ul li a {
+	 text-decoration:none;
+	 color:black;
+	 display:block;
+	 padding:20px;
+	 background-color:#dfdfdf;
+	 border-radius:10px;
+}
+
+.top-nav ul li:hover a {
+	background-color:#343434;
+	color:white;
+}
+
+.top-nav ul li:active a {
+	position:relative;
+	top:2px;
+}
+
+.top-nav ul li.active a {
+	background-color:#aaa;
+}
